@@ -1,6 +1,8 @@
-# PESUIO-CVwithDL-Assignment-Week2
+# PESUIO-CVwithDL-Final-Project
 
-# Model is above in h5 format
+This project identifies 30 different cars.
+
+the notebook file is above
 
 Colab link:
 https://colab.research.google.com/drive/1S0Zk4xSV6U9vQps62gFyHVYY1kvXHUz_?usp=sharing
